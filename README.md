@@ -28,6 +28,7 @@ fov3<br />
 
 
 ## Installation
+Here is the link to install the latest version of Fiji.
 ### Requirements for specific operating systems
 #### Windows
 #### macOS
