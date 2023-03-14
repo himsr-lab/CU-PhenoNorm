@@ -1,3 +1,5 @@
+// reference : https://imagej.net/plugins/tws/scripting#Example:_apply_classifier_to_all_images_in_folder
+
 #@ File(label="Input directory", description="Select the directory with input images", style="directory") inputDir
 #@ File(label="Output directory", description="Select the output directory", style="directory") outputDir
 #@ File(label="Weka model", description="Select the Weka model to apply") modelPath
