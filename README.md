@@ -44,23 +44,16 @@ Please refer to the respective directories and scripts for more detailed informa
 For support, please contact Mansooreh Ahmadian at mansooreh.ahmadian@cuanschutz.edu.
 
 ### Inquiry
-All general inquiries should be directed to Kimberly R Jordan at kimberly.jordan@cuanschutz.edu.
-
+For general inquiries, please contact Kimberly R Jordan at kimberly.jordan@cuanschutz.edu.
 
 ### Citation
-If you use this work, please cite:
-A Platform-Independent Framework for Phenotyping of Multiplex1 Tissue Imaging Data
-Mansooreh Ahmadian, Christian Rickert, Angela Minic, Julia Wrobel, Benjamin G Bitler, Fuyong Xing, Michael Angelo, Elena W.Y Hsieh, Debashis Ghosh, Kimberly R Jordan
- [bioRxiv DOI: 10.1101/2021.05.10.443525](https://www.biorxiv.org/content/10.1101/2022.10.20.510630v1).
+If you use this work, please cite the following article:
+"A Platform-Independent Framework for Phenotyping of Multiplex Tissue Imaging Data"  
+Mansooreh Ahmadian, Christian Rickert, Angela Minic, Julia Wrobel, Benjamin G Bitler, Fuyong Xing, Michael Angelo, Elena W.Y Hsieh, Debashis Ghosh, Kimberly R Jordan  
+[bioRxiv DOI: 10.1101/2021.05.10.443525](https://www.biorxiv.org/content/10.1101/2022.10.20.510630v1).
 
 ### Funding
-This work was partially supported by the Human Immune Monitoring Shared Resource (RRID:SCR021985)367
-within the University of Colorado Human Immunology and Immunotherapy Initiative and the Univer-368
-sity of Colorado Cancer Center (P30CA046934). BGB supported by DOD for TMA construction (Award369
-OC170228) and the Kay L. Dunton Endowed Memorial Professorship In Ovarian Cancer Research. MA370
-supported by NIH/NCATS Colorado CTSA Grant Number UL1 TR002535.
+This work was partially supported by the Human Immune Monitoring Shared Resource (RRID:SCR021985) within the University of Colorado Human Immunology and Immunotherapy Initiative and the University of Colorado Cancer Center (P30CA046934). BGB is supported by the DOD for TMA construction (Award OC170228) and the Kay L. Dunton Endowed Memorial Professorship In Ovarian Cancer Research. MA is supported by NIH/NCATS Colorado CTSA Grant Number UL1 TR002535.
 
 ### Acknowledgements
-The authors would like to thank Dr. Keren Leeat for kindly sharing the raw imaging data from the tripple negative breast cancer study. 
-
-
+The authors would like to thank Dr. Keren Leeat for kindly sharing the raw imaging data from the triple-negative breast cancer study.
