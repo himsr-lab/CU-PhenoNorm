@@ -16,7 +16,9 @@ Installing the software and packages required to run this pipeline is straitforw
 Here, we list the files we have included as part of this repository.
 
 data/ Ovarian Cancer Data- All the raw and processed imaging data, single-cell segmentation maps, single_cell tabular data are included in this folder.
+
 scr/- All the scripts that can be used to organize the images and prepare training stacks for the pixel classification are included in this folder.
+
 main- the scripts for implementation of the main pipeline are included here.
 
 
