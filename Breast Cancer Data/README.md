@@ -1,1 +1,1 @@
-This repo includes the tabular data for the breast cancer dataset. We note that the breast cancer dataset is a publicly available dataset and therefore the imaging data can be find by refering to this manuscript: https://pubmed.ncbi.nlm.nih.gov/30193111/
+This repo includes the tabular data for the breast cancer dataset. We note that the breast cancer dataset is a publicly available dataset published in https://pubmed.ncbi.nlm.nih.gov/30193111/. The imaging data is available at https://mibi-share.ionpath.com 
