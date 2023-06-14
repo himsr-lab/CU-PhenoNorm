@@ -18,7 +18,8 @@ To run this pipeline, you need to install Fiji and Trainable WEKA Segmentation (
 
 This repository contains the following files and directories:
 
-- `Breast Cancer Data/`: This directory includes processed data related to the single-cell information extracted from the FR maps of breast cancer datasets. The breast cancer dataset is publicly available and can be found at [https://pubmed.ncbi.nlm.nih.gov/30193111/](https://pubmed.ncbi.nlm.nih.gov/30193111/).
+- `Breast Cancer Data/`: This directory includes processed data related to the single-cell information extracted from the FR maps of breast cancer datasets. The breast cancer dataset is studied in https://pubmed.ncbi.nlm.nih.gov/30193111/ and publicly available at can be found at https://mibi-share.ionpath.com
+  -`Training Data`: This directory includes all the labeled data and classifier models trained for the definitive markers for the breast cancer dataset.
 
 - `Ovarian Cancer Data/`: This directory contains all the raw and processed data related to the ovarian cancer dataset.
   - `Raw Imaging Data/`: Raw images from the ovarian cancer dataset.
