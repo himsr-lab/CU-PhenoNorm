@@ -1,0 +1,4 @@
+ ,Label,Area,Mean,StdDev,Min,Max,Perim.,IntDen,%Area,RawIntDen
+1,Probability maps:4:class 1,146.627,0.022,0.049,0.000,0.306,45.052,3.284,57.073,13.774
+2,Probability maps:2:class 1,145.435,0.338,0.325,0.003,0.963,45.052,49.181,100.000,206.280
+3,Probability maps:1:class 1,145.197,0.722,0.272,0.017,0.994,45.052,104.875,100.000,439.879
