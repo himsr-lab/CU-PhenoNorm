@@ -1,4 +1,4 @@
-## Overview of Repository
+## Overview of Directory
 
 This repository contains all the figures used in the manuscript and supplementary text, along with the corresponding numerical values required to generate these figures. Below is a detailed explanation of the location of the data for each figure:
 
