@@ -57,4 +57,4 @@ Mansooreh Ahmadian, Christian Rickert, Angela Minic, Julia Wrobel, Benjamin G Bi
 This work was partially supported by the Human Immune Monitoring Shared Resource (RRID:SCR021985) within the University of Colorado Human Immunology and Immunotherapy Initiative and the University of Colorado Cancer Center (P30CA046934). BGB is supported by the DOD for TMA construction (Award OC170228) and the Kay L. Dunton Endowed Memorial Professorship In Ovarian Cancer Research. MA is supported by NIH/NCATS Colorado CTSA Grant Number UL1 TR002535.
 
 ### Acknowledgements
-The authors would like to thank Dr. Keren Leeat for kindly sharing the raw imaging data from the triple-negative breast cancer study.
+The authors would like to thank Dr. Leeat Keren for kindly sharing the raw imaging data from the triple-negative breast cancer study.
