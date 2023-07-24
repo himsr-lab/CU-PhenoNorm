@@ -2,7 +2,7 @@
 
 This repository contains all the figures used in the manuscript and supplementary text, along with the corresponding numerical values required to generate these figures. Below is a detailed explanation of the location of the data for each figure:
 
-- `Figure1`: This figure (`Fig1.pdf`) a diagram representing the pipeline, which does not contain any numerical values.
+- `Figure1`: This figure (`Fig1.pdf`) is a diagram representing the pipeline.
 
 - `Figure2/`: This directory includes four subplots that involve numerical values:
 
